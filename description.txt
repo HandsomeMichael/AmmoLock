@@ -1,0 +1,17 @@
+Ammo Lock & Prioritize is a mod that allows you make a weapon to prioritize or only use 1 type of ammo
+
+originally requested by UsodaKanpeki
+
+by holding an ammo and hovering over a weapon that can use it then right - click to prioritize ammo type
+by holding an ammo and hovering over a weapon that can use it then alt + right - click to lock ammo type
+
+you can simply remove this effect by shift and right clicking the weapon
+
+[ Changelog ]
+
+v.0.2
+- added icon
+- added option to lock ammo type instead of prioritize it
+
+v.0.1
+- initial release

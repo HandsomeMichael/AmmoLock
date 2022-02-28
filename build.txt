@@ -1,0 +1,3 @@
+displayName = Ammo Lock & Prioritize
+author = Lasthue Or Neko
+version = 0.2
